@@ -7,6 +7,7 @@ public class HelloWorld {
 	public static void main(String args[])
 	{
 		System.out.println("hello world");
+		System.out.println("Rajkumr first test");
 		
 		HelloWorld hw = new HelloWorld();
 		hw.add();
